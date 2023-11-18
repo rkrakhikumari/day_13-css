@@ -3,6 +3,11 @@
     margin: 0;
     color: white;
 }
+footer{
+    background-color: #0f1111;
+    text-align: center;
+
+}
 #navbar{
     height: 60px;
     background-color: #0f1111;
@@ -17,4 +22,13 @@ button{
 a{
     margin-right: 200px;
     text-decoration: none;
+}
+.contentbox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block
+}
+#content{
+    height: 600px;
 }
